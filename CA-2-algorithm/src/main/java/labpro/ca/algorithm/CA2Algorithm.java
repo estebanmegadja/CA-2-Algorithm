@@ -4,6 +4,7 @@ package labpro.ca.algorithm;
 import java.util.Scanner;
 
 /**
+ *
  * @author emega
  */
 
